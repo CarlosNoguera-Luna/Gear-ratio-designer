@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated FreeCAD models
+gear_transmission_*.FCStd
+
+# FreeCAD backup files
+*.FCStd1
+
+# VS Code
+.vscode/
